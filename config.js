@@ -1,9 +1,9 @@
 const CONFIG = {
-    titleWeb: "Thanh Vy",
-    introTitle: 'Thanh Vy',
-    introDesc: `Ngay khi chị nhìn thấy dòng chữ này, Vũ trụ đang nói với em rằng hãy nhắc công chúa nhỏ đặt điện thoại xuống, tắt đèn và đi ngủ đi.`,
+    titleWeb: "Kim Anh",
+    introTitle: 'Kim Anh',
+    introDesc: `Ngay khi chị nhìn thấy dòng chữ này, Vũ trụ đang nói với mình rằng hãy nhắc Kim Anh đặt điện thoại xuống, tắt đèn và đi ngủ đi.`,
     btnIntro: 'Tiếp nào',
-    title: 'chị bé, chị đã có một ngày dài và mệt mỏi, đã đến lúc hãy tạm quên mọi chuyện mà đi nghỉ ngơi đi nhen🌙',
+    title: 'cô bé, cậu đã có một ngày dài và mệt mỏi, đã đến lúc hãy tạm quên mọi chuyện mà đi nghỉ ngơi đi nhen🌙',
     desc: 'Nếu đọc được đến dòng này thì đi ngủ đi, hết văn chương để viết ời :))',
     btnYes: 'Đi ngủ',
     btnNo: 'Hỏng ngủ))',
