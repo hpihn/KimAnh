@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "wieiii",
+    titleWeb: "Thanh Vy",
     introTitle: 'Thanh Vy',
     introDesc: `Ngay khi chị nhìn thấy dòng chữ này, Vũ trụ đang nói với em rằng hãy nhắc công chúa nhỏ đặt điện thoại xuống, tắt đèn và đi ngủ đi.`,
     btnIntro: 'Tiếp nào',
